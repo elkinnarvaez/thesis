@@ -1,1 +1,1 @@
-# thesis
+# Reinforcement Learning for Trading
